@@ -1,6 +1,6 @@
 # Quantized Legal Tagger Monitor
 
-[![Built with askThili](https://ask.thili.ai/api/v1/public/projects/f5xwu2emvc/badge.svg)](https://ask.thili.ai/b/f5xwu2emvc)
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/f5xwu2emvc/badge.svg)](https://msrit.ask.thili.ai/b/f5xwu2emvc)
 
 This project delivers a crucial tool for legal aid workers, enabling them to monitor the efficiency of legal clause taggers. By evaluating the size and inference speed of quantized models, it ensures that document processing remains efficient on local systems, directly supporting their critical work.
 
