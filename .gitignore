@@ -1,0 +1,18 @@
+# Secrets: never commit your real settings
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Local data
+data/
+*.db
+artifacts/
+.venv/ 
+artifacts/ 
+.env 
+__pycache__/ 
+.pytest_cache/
